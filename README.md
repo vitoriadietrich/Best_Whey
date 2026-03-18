@@ -10,12 +10,6 @@
 
 ---
 
-## 📸 Preview
-
-![Preview do Projeto](./preview.png)
-
----
-
 ## 🎯 Sobre o Projeto
 
 O **Best Whey** é uma interface desenvolvida para apresentar produtos de forma visual e interativa, permitindo ao usuário explorar diferentes opções de whey protein de maneira simples e intuitiva.
